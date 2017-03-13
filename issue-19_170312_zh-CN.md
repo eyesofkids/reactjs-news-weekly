@@ -51,7 +51,7 @@ Firefox于3/7日发布v52.0，其中包含了许多改进，以及认为是"游�
 - [如何让你的React应用完全函数化，完全地reactive，而且可以处理所有疯狂的副作用](https://medium.freecodecamp.com/how-to-make-your-react-app-fully-functional-fully-reactive-and-able-to-handle-all-those-crazy-e5da8e7dac10#.kudbc5eic)
 - [如何用React Native创建一个超简单的游戏](http://mmazzarolo.com/blog/how-i-built-a-super-simple-game-using-react-native/)
 - [如何在WordPress REST API之上创建React应用](https://medium.freecodecamp.com/how-to-build-react-apps-on-top-of-the-wordpress-rest-api-bcc632808025#.un056vjgf)
-- [比较原生iOS(Swift)与React-Native的运行效能](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2#.n1i0uebis)
+- [比较原生iOS(Swift)与React-Native的性能](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2#.n1i0uebis)
 - [函数化setState是React的未来](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.svv5yw5g3)
 
 ***
