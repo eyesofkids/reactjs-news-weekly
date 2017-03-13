@@ -1,7 +1,7 @@
 
-# ReactJS新闻 第019期 (2017.03.05发刊)
+# ReactJS新闻 第019期 (2017.03.05)
 
-ReactJS新闻，是一份收集每周来自React、React Native官方网站，各社交媒体网站，以及周边技术与套件发表的数位刊物，固定于每周六或日发送。
+ReactJS新闻，是一份收集每周来自React、React Native官方网站新闻，各社交媒体新闻，以及周边技术与套件发表新闻的数位刊物，固定于每周六或日发送。
 
 ***
 
@@ -56,7 +56,8 @@ Firefox于3/7日发布v52.0，其中包含了许多改进，以及认为是"游�
 
 ***
 
-本电子报为每周末发刊，所有内容来自网络。如果您对内容有疑问，请到[ReactJS新闻网站][1]连络我们。
+本电子报为每周末发刊，所有内容来自网络。如果您对内容有疑问，请到[ReactJS新闻网站][1]或[Github库][2]关注我们。
 
 [1]: https://www.reactjs-tw.top/
+[2]: https://github.com/eyesofkids/reactjs-news-weekly
 
