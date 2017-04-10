@@ -39,8 +39,7 @@ React London 2017是在3月底，于欧洲的React社群的一个研习会活动
 - [VSCode用于React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - [介绍glamorous - Paypal出的样式化React项目](https://medium.com/@kentcdodds/introducing-glamorous-fb3c9f4ed20e)
 - [是的，React正掌握着前端开发。问题是为什么](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
-- [由7个运算符开始使用RxJS
-](https://www.infoq.com/articles/rxjs-get-started-operators)
+- [由7个运算符开始使用RxJS](https://www.infoq.com/articles/rxjs-get-started-operators)
 
 ***
 
