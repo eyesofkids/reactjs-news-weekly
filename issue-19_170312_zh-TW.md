@@ -35,13 +35,6 @@ Apple在3月初開始針對使用部份熱修補功能，例如Rollout.io、JSPa
 - [关于苹果警告](http://blog.cnbang.net/internet/3374/)
 - [來自Apple的警告-React Native issue](https://github.com/facebook/react-native/issues/12778)
 
-### Apple對使用熱修補功能的App開發者發出警告
-
-Apple在3月初開始針對使用部份熱修補功能，例如Rollout.io、JSPatch等類似功能的App開發者發出警告信，主因是它們可以透過JavaScript程式，修改或替換掉Swift或Objective-C的程式碼，而不需經過Apple審核的流程，這對沒有使用此功能的一般React Native的App並沒有影響。
-
-- [关于苹果警告](http://blog.cnbang.net/internet/3374/)
-- [來自Apple的警告-React Native issue](https://github.com/facebook/react-native/issues/12778)
-
 ### Firefox發佈v52.0，這是第一個支援WebAssembly的瀏覽器
 
 Firefox於3/7日發佈v52.0，其中包含了許多改進，以及認為是"遊戲改變"的重大功能支援 - WebAssembly，這將會是第一個正式發佈支援這個新技術的瀏覽器。其他的新支援還有不少，像是支援新的async函式與await運算符，以及CSS Grid等等。
